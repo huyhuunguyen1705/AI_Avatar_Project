@@ -5,4 +5,3 @@
 # Training
     use GUI to train
     See this: https://www.youtube.com/watch?v=wTVI0SONkpc
-    I prefer to upload ckpt to Huggingface, then use Diffusers Pipeline to infer

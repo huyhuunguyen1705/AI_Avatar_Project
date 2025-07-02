@@ -66,20 +66,3 @@ Dự án này tích hợp và so sánh hiệu quả của các phương pháp sa
 4.  **Kết hợp:**
     *   Sử dụng một model Dreambooth/LoRA làm nền cho chủ thể và kết hợp với các LoRA phong cách khác để tăng tính đa dạng.
     *   Sử dụng embedding Textual Inversion cùng với các model Dreambooth/LoRA (nếu tương thích).
-
-## Đóng góp
-
-Chúng tôi hoan nghênh mọi đóng góp! Vui lòng xem qua `CONTRIBUTING.md` (nếu có) để biết cách tham gia.
-Các cách bạn có thể đóng góp:
-*   Báo cáo lỗi (bug report)
-*   Yêu cầu tính năng mới (feature request)
-*   Gửi Pull Request với các cải tiến hoặc sửa lỗi
-*   Chia sẻ các kết quả huấn luyện và prompt thú vị
-
-## Hướng phát triển tương lai
-
-*   [ ] Xây dựng giao diện người dùng (Web UI) thân thiện.
-*   [ ] Tích hợp thêm các phương pháp tạo avatar mới.
-*   [ ] Tối ưu hóa quy trình huấn luyện và tạo ảnh.
-*   [ ] Nghiên cứu về việc kiểm soát biểu cảm, tư thế tốt hơn.
-*   [ ] Hỗ trợ tạo video avatar ngắn.
